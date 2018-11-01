@@ -1,0 +1,23 @@
+{
+  "name": "classextension",
+  "version": "1.0.0",
+  "main": "ClassExtension.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://github.com/tksato/ClassExtension"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://github.com/tksato/ClassExtension",
+  "dependencies": {
+    "chai": "^4.2.0"
+  },
+  "devDependencies": {},
+  "description": ""
+}
