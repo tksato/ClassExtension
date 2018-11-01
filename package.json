@@ -15,9 +15,9 @@
   "author": "",
   "license": "ISC",
   "homepage": "https://github.com/tksato/ClassExtension",
-  "dependencies": {
+  "dependencies": {},
+  "devDependencies": {
     "chai": "^4.2.0"
   },
-  "devDependencies": {},
   "description": ""
 }
