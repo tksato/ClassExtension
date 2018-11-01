@@ -1,5 +1,5 @@
 # ClassExtension
-Please check test/ClassExtension.js.  
+Please check test/ClassExtensionTest.js.  
 This module provides some methods for class extension for javascript.
 
 ## ・toSingleton  
